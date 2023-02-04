@@ -1,0 +1,17 @@
+/Users/olasubomi/RiderProjects/BulkyBook/BulkyBook.DataAccess/bin/Debug/net6.0/BulkyBook.DataAccess.deps.json
+/Users/olasubomi/RiderProjects/BulkyBook/BulkyBook.DataAccess/bin/Debug/net6.0/BulkyBook.DataAccess.dll
+/Users/olasubomi/RiderProjects/BulkyBook/BulkyBook.DataAccess/bin/Debug/net6.0/BulkyBook.DataAccess.pdb
+/Users/olasubomi/RiderProjects/BulkyBook/BulkyBook.DataAccess/bin/Debug/net6.0/BulkyBook.Models.dll
+/Users/olasubomi/RiderProjects/BulkyBook/BulkyBook.DataAccess/bin/Debug/net6.0/BulkyBook.Models.pdb
+/Users/olasubomi/RiderProjects/BulkyBook/BulkyBook.DataAccess/obj/Debug/net6.0/BulkyBook.DataAccess.csproj.AssemblyReference.cache
+/Users/olasubomi/RiderProjects/BulkyBook/BulkyBook.DataAccess/obj/Debug/net6.0/BulkyBook.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olasubomi/RiderProjects/BulkyBook/BulkyBook.DataAccess/obj/Debug/net6.0/BulkyBook.DataAccess.AssemblyInfoInputs.cache
+/Users/olasubomi/RiderProjects/BulkyBook/BulkyBook.DataAccess/obj/Debug/net6.0/BulkyBook.DataAccess.AssemblyInfo.cs
+/Users/olasubomi/RiderProjects/BulkyBook/BulkyBook.DataAccess/obj/Debug/net6.0/BulkyBook.DataAccess.csproj.CoreCompileInputs.cache
+/Users/olasubomi/RiderProjects/BulkyBook/BulkyBook.DataAccess/obj/Debug/net6.0/BulkyBook.DataAccess.csproj.CopyComplete
+/Users/olasubomi/RiderProjects/BulkyBook/BulkyBook.DataAccess/obj/Debug/net6.0/BulkyBook.DataAccess.dll
+/Users/olasubomi/RiderProjects/BulkyBook/BulkyBook.DataAccess/obj/Debug/net6.0/refint/BulkyBook.DataAccess.dll
+/Users/olasubomi/RiderProjects/BulkyBook/BulkyBook.DataAccess/obj/Debug/net6.0/BulkyBook.DataAccess.pdb
+/Users/olasubomi/RiderProjects/BulkyBook/BulkyBook.DataAccess/obj/Debug/net6.0/ref/BulkyBook.DataAccess.dll
+/Users/olasubomi/RiderProjects/BulkyBook/BulkyBook.DataAccess/bin/Debug/net6.0/Bulkybook.Utility.dll
+/Users/olasubomi/RiderProjects/BulkyBook/BulkyBook.DataAccess/bin/Debug/net6.0/Bulkybook.Utility.pdb
